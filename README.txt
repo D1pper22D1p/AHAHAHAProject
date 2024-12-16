@@ -1,0 +1,1 @@
+This application generates a password of 10 random characters represented from an ASCII table with 32 values up to 127 and automatically copies it to the clipboard.
